@@ -1,6 +1,8 @@
-# Netflix-Clone
+# Udemig Netflix Clone
 
-This project was created by Yasin Özboğa
+This project was created by Yasin Özboğa.
+HTML5, CSS3 were used perfectly to be compatible with users.
+Pictures and icons were used for increase experience users.
 
 ## Used Technologies
 
